@@ -1,0 +1,2 @@
+include *.py *.cfg
+recursive-include scripts *.py
